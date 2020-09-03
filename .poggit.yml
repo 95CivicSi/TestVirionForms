@@ -5,7 +5,7 @@ branches:
 projects:
   TestVirionForms:
     libs:
-      - src: BreathTakinglyBinary/libDynamicForms/libDynamicForms
+      - src: BreathTakinglyBinary/libDynamicForms/~
         version: ^1.1.2
     lint:
       phpstan: false
