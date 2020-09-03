@@ -6,4 +6,7 @@ namespace Civic\testvironforms;
 use pocketmine\plugin\PluginBase;
 class TestVironForms extends PluginBase{
 
+    protected function onEnable(){
+        new TestSimpleForm();
+    }
 }
