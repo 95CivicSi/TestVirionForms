@@ -1,6 +1,6 @@
 ---
-name: TestVironForms
+name: TestVirionForms
 version: 0.0.1
-main: Civic\testvironforms\TestVironForms
+main: Civic\testvirionforms\TestVironForms
 api: 3.11.0
 ...

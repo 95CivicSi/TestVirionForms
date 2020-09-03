@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
 
-namespace Civic\testvironforms;
+namespace Civic\testvirionforms;
 
 use pocketmine\plugin\PluginBase;
-class TestVironForms extends PluginBase{
+class TestVirionForms extends PluginBase{
 
     protected function onEnable(){
         new TestSimpleForm();
